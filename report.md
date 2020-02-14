@@ -28,13 +28,13 @@
 Данные взяты из [таблицы](https://developer.rbk.money/docs/payments/refs/testcards/#_1) для Visa и MasterCard
 
 ### Тестирование производилось в следующем окружении:
-IntelliJ IDEA 2019.3.3 (Community Edition)
-Build #IC-193.6494.35, built on February 11, 2020
-Runtime version: 11.0.5+10-b520.38 amd64
-VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
-Windows 10 10.0
-GC: ParNew, ConcurrentMarkSweep
-Memory: 2014M
-Cores: 4
-Registry: 
-Non-Bundled Plugins: 
+* IntelliJ IDEA 2019.3.3 (Community Edition)
+* Build #IC-193.6494.35, built on February 11, 2020
+* Runtime version: 11.0.5+10-b520.38 amd64
+* VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
+* Windows 10 10.0
+* GC: ParNew, ConcurrentMarkSweep
+* Memory: 2014M
+* Cores: 4
+* Registry: 
+* Non-Bundled Plugins: 
